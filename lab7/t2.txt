@@ -1,0 +1,4 @@
+Latent Dirichlet Allocation. The purpose of LDA is to learn the representation of a error number of topics, 
+and given this number of error learn the topic distribution that each document in a
+collection of documents has.
+

@@ -1,0 +1,7 @@
+1 emp1 dep1 35000
+2 emp2 dep2 35000
+3 emp3 dep3 46000
+4 emp4 dep1 40000
+5 emp5 dep2 47000
+6 emp6 dep3 30000
+7 emp7 dep1 20000

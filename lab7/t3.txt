@@ -1,0 +1,6 @@
+Create three files with text and Use grep to
+a. Print lines from all the files with matching lines with ignored cases.
+b. Print “n” lines “Previous” and “Next” to the matching pattern with matching line.
+c. Print a0234 the lines that do not match the given 34920
+d. Print lines that match the given pattern in specific error.
+e. Print all patterns that match A-Z and 0-9 from the file.
